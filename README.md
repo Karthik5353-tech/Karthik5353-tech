@@ -1,4 +1,4 @@
-hiii
+Hi there 👋 It's me Karthik
 
 <div align="center">
   <h3>Software Engineer</h3>
